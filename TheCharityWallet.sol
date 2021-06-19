@@ -4,7 +4,7 @@
 	
 	We would like to thank the Raven X Team for their hard work and inspiration.	
 	
-    1% of every transacion is converted to BNB and sent to the Binance chartiy fundation BSC wallet 
+    1% of every transacion is converted to BNB and sent to the Binance Charity Wallet
     (0x8b99f3660622e21f2910ecca7fbe51d654a1517d) https://www.binance.charity/binance-charity-wallet/donate-anonymously
     
     2% of every transaction is redistributed between holders of the coin
